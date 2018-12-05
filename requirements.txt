@@ -1,0 +1,4 @@
+boto==2.48.0
+boto3==1.7.23
+botocore==1.10.23
+psycopg2==2.7.4
